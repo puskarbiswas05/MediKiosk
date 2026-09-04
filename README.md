@@ -104,7 +104,9 @@ Deployment			     Vercel /github
 3.Better Healthcare Quality: Doctors receive structured patient information.
 4.Reduced Workload: Automates repetitive data collection and documentation.
 5.Digital Healthcare: Reduces dependency on paper records.
-6.Scalability: Can be deployed in hospitals, clinics, and healthcare centers.                                                                                                       🔐 Security & Privacy
+6.Scalability: Can be deployed in hospitals, clinics, and healthcare centers.                                                                                      
+
+🔐 Security & Privacy
 
 MediKiosk adopts a "consent first" strategy for handling patient information.
 
